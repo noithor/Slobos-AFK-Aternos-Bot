@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "BOT",
     "password": "",
-    "type": "online"
+    "type": "offline"
   },
   "server": {
     "ip": "Noithor12-jBKR.aternos.me",
